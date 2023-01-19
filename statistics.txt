@@ -2,4 +2,5 @@ Ideas for curriculum:
 
 	-Mean and standard deviation
 	-Regression
-	-Bayes Theorm
+	-Bayes' Theorem
+	-Bring pizza for the class
